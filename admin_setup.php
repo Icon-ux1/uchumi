@@ -4,19 +4,19 @@ include 'config.php';
 $admins = [
     [
         'username' => 'Icon',
-        'password' => '',
+        'password' => 'Icon147*',
         'email' => 'admin@uchumi.com',
         'full_name' => 'Icon Admin'
     ],
     [
         'username' => 'Adilex',
-        'password' => '',
+        'password' => 'Adilex123',
         'email' => 'adilex@uchumi.com',
         'full_name' => 'Adilex Admin'
     ],
     [
         'username' => 'Lewis',
-        'password' => '',
+        'password' => 'Lewis123',
         'email' => 'lewis@uchumi.com',
         'full_name' => 'Lewis Admin'
     ]
