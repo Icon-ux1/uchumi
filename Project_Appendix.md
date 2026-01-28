@@ -100,7 +100,7 @@ The following credentials have been configured for the initial administrative ac
 | Field | Value |
 | :--- | :--- |
 | **Admin Username** | `Icon` |
-| **Admin Password** | `Icon147*` |
+| **Admin Password** |  |
 | **Access URL** | `http://localhost/uchumi/admin` |
 
 ### 3.2 Dashboard Functionality
